@@ -1,0 +1,8 @@
+{
+  "domain": "aprs-is",
+  "name": "APRS-IS",
+  "documentation": "https://www.home-assistant.io/integrations/aprs",
+  "dependencies": [],
+  "codeowners": ["@PhilRW"],
+  "requirements": ["aprslib==0.6.46", "geopy==1.19.0"]
+}
